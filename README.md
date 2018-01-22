@@ -1,2 +1,2 @@
 # augmentedreality
-This is a AR game develop by me
+This is a AR game developed by me
